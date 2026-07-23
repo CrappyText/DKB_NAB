@@ -1,0 +1,4 @@
+#Paparkan Nombor 1 Hingga 10 Menggunakan Gelung
+
+for i in range(1, 11):
+    print(i)
