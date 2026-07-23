@@ -1,0 +1,8 @@
+ #Bina program untuk menentukan nombor ganjil atau genap.
+
+nombor = int(input("Masukkan nombor: "))
+
+if nombor % 2 == 0:
+    print("Nombor Genap")
+else:
+    print("Nombor Ganjil")
