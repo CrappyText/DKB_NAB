@@ -1,0 +1,8 @@
+#Kira Luas Segi Empat
+
+panjang = float(input("Masukkan panjang: "))
+lebar = float(input("Masukkan lebar: "))
+
+luas = panjang * lebar
+
+print("Luas segi empat ialah:", luas)
