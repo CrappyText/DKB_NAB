@@ -1,8 +1,0 @@
-#Tentukan Status Lulus atau Gagal Berdasarkan Markah
-
-markah = int(input("Masukkan markah: "))
-
-if markah >= 50:
-    print("Lulus")
-else:
-    print("Gagal")
